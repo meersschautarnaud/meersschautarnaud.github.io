@@ -1,11 +1,19 @@
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 
-title: Arnaud Meersschaut
-email: your-email@example.com
+title: Welcome
+author: Arnaud Meersschaut
+email: arnaudmeersschaut@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A first attempt to a blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://meersschautarnaud.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social Profiles
+# twitter_username:   SBootstrap
+github_username:      meersschautarnaud
+# facebook_username:  
+# instagram_username: 
+linkedin_username:    arnaudmeersschaut
 
 # Build settings
 plugins:
