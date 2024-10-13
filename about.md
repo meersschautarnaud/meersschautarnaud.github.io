@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Arnaud Meersschaut, a tech enthousiast and currently working as a consultant at [codit](www.codit.eu), where I started in 2018. I strongly believe that via technology we can improve our daily live and make things easier.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As you will read on the travel part of this website, I'm a huge fan of traveling, discovering wonderful places and meeting new people to experience different cultures. By traveling I mean, preferably with a backpack and detached from the online world we live in these days. Back to the basics and mostly away of the luxury we are used to (sometimes a bit of luxury can be appreciated).
 
-
-[jekyll-organization]: https://github.com/jekyll
+Happy reading!
