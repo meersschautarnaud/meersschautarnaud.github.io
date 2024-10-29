@@ -43,7 +43,7 @@ A lot of the talks will normally end up on the [Youtube channel](https://www.you
 
 Overall, I liked the event and I’m happy that I was able to attend, thanks to Codit. I’ve met new people and got a glimpse of the open-source community within the Linux Foundation and its importance.
 
-You may be wondering: Did you travel to Japan just to attend this session? The answer is… yes! Just kidding—I traveled to Japan for my holiday and was excited to see the Linux Foundation hosting an event, so I couldn’t resist attending. You can read more about my travels in Japan [here](/travel/index.html).§
+You may be wondering: Did you travel to Japan just to attend this session? The answer is… yes! Just kidding—I traveled to Japan for my holiday and was excited to see the Linux Foundation hosting an event, so I couldn’t resist attending. You can read more about my travels in Japan [here](/travel/index.html).
 
 <img class="img-fluid" src="/img/posts/work/ossJapanSummary/image1.jpg">
 <img class="img-fluid" src="/img/posts/work/ossJapanSummary/image2.jpg">
