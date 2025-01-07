@@ -32,7 +32,7 @@ Luckily, our hostel organised a Christmas BBQ in the evening for all the guests.
 <img class="img-fluid" src="/img/posts/travel/Week3-4NewZealand/Christmas1.jpg" alt="Christmas lights">
 <img class="img-fluid" src="/img/posts/travel/Week3-4NewZealand/Christmas2.jpg" alt="Christmas lights">
 
-To embrace the Kiwi Christmas spirit, we did something we were not used to: going to the midnight mass. Because we heard there was going to be a life choir, orchestra and orgel, we had to attend. Let’s say that it was an experience but not one for every year. Next to that, we have to say that the church was beautiful and modern. You can see that religion is more present here than in Belgium.
+To embrace the Kiwi Christmas spirit, we did something we were not used to: going to the midnight mass. Because we heard there was going to be a live choir, orchestra and orgel, we had to attend. Let’s say that it was an experience but not one for every year. Next to that, we have to say that the church was beautiful and modern. You can see that religion is more present here than in Belgium.
 
 <img class="img-fluid" src="/img/posts/travel/Week3-4NewZealand/Christmas3.jpg" alt="Midnight mass">
 
