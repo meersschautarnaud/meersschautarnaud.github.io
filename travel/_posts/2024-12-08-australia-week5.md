@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A stunning but sad goodbye"
-subtitle: "Australia - part 4 - Sydney - Canberra - Katoomba"
+subtitle: "Australia - part 5 - Sydney - Canberra - Katoomba"
 author: Arnaud & Delphine
 categories: travel australia
 background: '/img/posts/travel/Week5Australia/background.jpg'
