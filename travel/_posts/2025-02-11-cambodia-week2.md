@@ -24,6 +24,13 @@ After a strong breakfast, we explored the region around the homestay by foot. Th
 <img class="img-fluid" src="/img/posts/travel/Week2Cambodia/killingCaves1.jpg" alt="Killing Caves">
 <img class="img-fluid" src="/img/posts/travel/Week2Cambodia/killingCaves2.jpg" alt="Killing Caves">
 
+<div class="embed-responsive embed-responsive-1by1">
+    <video controls="autoplay loop muted controls">
+        <source src="/img/posts/travel/Week2Cambodia/bats.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 Not entirely sure what we would do the next day, we asked the host what he recommended and decided to do a tour with a personal guide. Just like a real tourist. The next morning, our local guide, Chin Chin, was ready to take us to the most interesting places in Battambang. We started with the bamboo train, a local transportation device built to get to the rice fields. Nowadays, everyone has his own vehicle, so the train is just there as an attraction. It is known by tourists and locals but personally we didn’t find it very spectacular.
 
 After that, we stopped at local enterprises to see how they make water reservoirs of cement, bamboo sticky rice, rice paper and fermented fish. We also went to a market with fresh foods, where we were a bit shocked. Not by the fish being cut on the asphalt or most of the food that was just there on the ground and in the sun, but the rats that were roasted and ready to eat. We respectfully declined the offer to try some and buy some peanuts instead, only to realise they were boiled and not roasted. They didn’t taste that bad, but we prefer roasted for sure.
